@@ -1,0 +1,8 @@
+[submodule "vendor/grpc"]
+	path = vendor/grpc
+	url = https://github.com/grpc/grpc.git
+	branch = v1.6.x
+[submodule "vendor/protobuf"]
+	path = vendor/protobuf
+	url = https://github.com/google/protobuf.git
+	branch = 3.4.x
